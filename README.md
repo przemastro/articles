@@ -8,3 +8,5 @@
 
 4. https://espeo.eu/blog/one-step-tableau-report-test-automation/?utm_source=linkedin&utm_medium=link&utm_campaign=test_automationblog
 
+5. https://www.miquido.com/blog/build-test-data-loader/
+
