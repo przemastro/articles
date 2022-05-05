@@ -10,3 +10,5 @@
 
 5. https://www.miquido.com/blog/build-test-data-loader/
 
+6. https://www.miquido.com/blog/cucumber-features/
+
