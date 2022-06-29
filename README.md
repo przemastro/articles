@@ -12,3 +12,4 @@
 
 6. https://www.miquido.com/blog/cucumber-features/
 
+7. https://www.miquido.com/blog/test-results-dashboard-google-sheets/
