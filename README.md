@@ -6,7 +6,7 @@
 
 3. https://espeo.eu/blog/test-center/
 
-4. hhttps://espeo.eu/blog/one-step-tableau-report-test-automation/
+4. https://espeo.eu/blog/one-step-tableau-report-test-automation/
 
 5. https://www.miquido.com/blog/build-test-data-loader/
 
